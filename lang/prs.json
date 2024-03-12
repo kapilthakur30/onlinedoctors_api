@@ -1,0 +1,9 @@
+{
+    "MESSAGE" : "خوش آمدید",
+    "LOGIN"   : "ورود به سیستم",
+    "ERROR_WENT_WRONG" : "یه مشکلی پیش اومد",
+    "PASSWORD_MISMATCH": "رمز عبور مطابقت ندارد",
+    "ACCOUNT_VERIFY"   : "ابتدا حساب خود را تأیید کنید",
+    "UNAUTHORIZE_ROLE" : "نقش غیرممکن، لطفاً نقش خود را بررسی کنید",
+    "EMAIL_NOT_EXIST"  : "ایمیل موجود نیست"
+}
